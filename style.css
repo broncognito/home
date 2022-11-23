@@ -2,3 +2,8 @@ h1 {
 color: black;
 text-align: center;
 }
+
+iframe{
+align="center"
+border: none;
+}
