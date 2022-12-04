@@ -13,3 +13,23 @@ border: none;
 #second-line {
   display: block;
 }
+
+
+
+.header img {
+  float: left;
+  width: 250px;
+  height: 70px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  right: 40px;
+}
+
+.header h3 {
+ float: right; 
+}
+
